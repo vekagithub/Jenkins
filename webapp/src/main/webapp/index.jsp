@@ -4,7 +4,7 @@
  
  <h1> code is moved from git hub - to jenkins - CI CD process is completed<h1>
   
-  Preparing the customized docker image 
+//  Preparing the customized docker image 
   
    //Step 1: Git hub code is the major source of input
   
